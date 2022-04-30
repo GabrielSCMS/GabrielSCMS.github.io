@@ -1,30 +1,27 @@
-# Portefólio Github - Gabriel Santos
-
-## Projetos
-
-Aqui encontram-se todos os documentos relativos ao PT05.
+## Bem Vindo ao meu Portefólio no GitHub Pages
 
 
-Primeiros Passos em HTML:
+### Trabalhos
 
-| Descrição | Resultado |
+PT05:
+
+| Tarefa | Código |
 | ------ | ------ |
-| HTML document (h1 e p) | [Passo 1][passo1] |
-| HTML headings (h1 a h6) | [Passo 2][passo2] |
-| HTML paragraphs (p e p) | [Passo 3][passo3] |
-| HTML links (a href) | [Passo 4][passo4] |
-| HTML images (img src) | [Passo 5][passo5] |
+| HTML Básico:1 | [Abrir](HTML Básico:1.html) |
+| HTML Básico:2 | [Abrir](HTML Básico:2.html) |
+| HTML Básico:3 | [Abrir](HTML Básico:3.html) |
+| HTML Básico:4 | [Abrir](HTML Básico:4.html) |
+| HTML Básico:5 | [Abrir](HTML Básico:5.html) |
+| HTML Tabela | [Abrir](tabela.html) |
 
-- [Repositório;]()
+PT06:
 
+| Tarefa | Código |
+| ------ | ------ |
+| Prática CSS:1 | [Abrir](CSS Básico 1.html) |
+| Prática CSS:2 | [Abrir](CSS Básico 2.html) |
+| Prática CSS:3 | [Abrir](CSS Básico 3.html) |
+| Prática CSS:4 | [Abrir](CSS Básico 4.html) |
+| Prática CSS:5 | [Abrir](CSS Básico 5.html) |
+| CSS Tabela | [Abrir][códigot] |
 
-Pauta fotográfica da turma:
-
-- [Resultado;]
-- [Repositório;]
-
-[passo1]: 
-[passo2]: 
-[passo3]: 
-[passo4]: 
-[passo5]: 
