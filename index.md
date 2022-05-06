@@ -25,3 +25,9 @@ PT06:
 | Prática CSS:5 | [Abrir](CSS Básico 5.html) |
 | CSS Tabela | [Abrir][códigot] |
 
+PT08:
+
+| Tarefa | Código |
+| ------ | ------ |
+| Análise de 13 Pedaços de código | [Abrir](pt08passo3.html) |
+
