@@ -23,7 +23,7 @@ PT06:
 | Prática CSS:3 | [Abrir](exemplo3.css) |
 | Prática CSS:4 | [Abrir](exemplo4.css) |
 | Prática CSS:5 | [Abrir](exemplo5.css) |
-| CSS Tabela | [Abrir][códigot] |
+| CSS Tabela | [Abrir][tabelapersonalizada.html] |
 
 PT08:
 
