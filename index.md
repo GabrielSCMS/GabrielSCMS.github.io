@@ -18,11 +18,11 @@ PT06:
 
 | Tarefa | Código |
 | ------ | ------ |
-| Prática CSS:1 | [Abrir](CSS Básico 1.html) |
-| Prática CSS:2 | [Abrir](CSS Básico 2.html) |
-| Prática CSS:3 | [Abrir](CSS Básico 3.html) |
-| Prática CSS:4 | [Abrir](CSS Básico 4.html) |
-| Prática CSS:5 | [Abrir](CSS Básico 5.html) |
+| Prática CSS:1 | [Abrir](exemplo1.css) |
+| Prática CSS:2 | [Abrir](exemplo2.css) |
+| Prática CSS:3 | [Abrir](exemplo3.css) |
+| Prática CSS:4 | [Abrir](exemplo4.css) |
+| Prática CSS:5 | [Abrir](exemplo5.css) |
 | CSS Tabela | [Abrir][códigot] |
 
 PT08:
