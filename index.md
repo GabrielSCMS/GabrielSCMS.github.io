@@ -18,11 +18,11 @@ PT06:
 
 | Tarefa | Código |
 | ------ | ------ |
-| Prática CSS:1 | [Abrir](exemplo1.css) |
-| Prática CSS:2 | [Abrir](exemplo2.css) |
-| Prática CSS:3 | [Abrir](exemplo3.css) |
-| Prática CSS:4 | [Abrir](exemplo4.css) |
-| Prática CSS:5 | [Abrir](exemplo5.css) |
+| Prática CSS:1 | [Abrir](exemplo1.html) |
+| Prática CSS:2 | [Abrir](exemplo2.html) |
+| Prática CSS:3 | [Abrir](exemplo3.html) |
+| Prática CSS:4 | [Abrir](exemplo4.html) |
+| Prática CSS:5 | [Abrir](exemplo5.html) |
 | CSS Tabela | [Abrir][tabelapersonalizada.html] |
 
 PT08:
