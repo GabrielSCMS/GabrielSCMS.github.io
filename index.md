@@ -30,4 +30,5 @@ PT08:
 | Tarefa | Código |
 | ------ | ------ |
 | Análise de 13 Pedaços de código | [Abrir](pt08passo3.html) |
+| While Loops | [Abrir](whileloops.html) |
 
